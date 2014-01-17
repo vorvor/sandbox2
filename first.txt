@@ -1,8 +1,1 @@
-This is the first row in first line.
-This is the CHANGE in this file.
-<<<<<<< HEAD
-
-uuu
-ppp
-=======
->>>>>>> parent of 7af3eb3... zzzz
+restart
